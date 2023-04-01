@@ -1,0 +1,382 @@
+#EXTM3U
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES & SERIES",A&E
+http://cdn.connectbr.com.br/AE/index.m3u8
+#EXTINF:0 tvg-id="Ae.br" group-title="FILMES & SERIES",A&E HD
+http://cdn.connectbr.com.br/AE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="Amc.br" group-title="FILMES & SERIES",AMC HD
+http://45.58.126.146:14296/
+#EXTINF:0 tvg-id="ext" group-title="FILMES & SERIES",ARTE1
+http://168.205.87.198:8555/live/michele/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="FILMES & SERIES",ARTE1
+http://168.205.87.198:8555/live/JOSEE/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="FILMES & SERIES",ARTE1
+http://168.205.87.198:8555/live/antony/1234/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="FILMES & SERIES",ARTE1
+http://168.205.87.198:8555/live/1221/123456/170.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Axn.br" group-title="FILMES & SERIES",AXN HD
+http://warez.la:80/9462431/3792669/1157.m3u8
+#EXTINF:0 tvg-id="Cinebrasiltv.br" group-title="FILMES & SERIES",CINE BRASIL
+http://168.205.87.198:8555/live/antony/1234/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cinebrasiltv.br" group-title="FILMES & SERIES",CINE BRASIL
+http://168.205.87.198:8555/live/michele/123456/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cinebrasiltv.br" group-title="FILMES & SERIES",CINE BRASIL
+http://168.205.87.198:8555/live/leila/123456/145.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES & SERIES",HBO
+http://195.181.163.144:14606/HBO2
+#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES & SERIES",HBO
+http://15.235.10.31:14379
+#EXTINF:0 tvg-id="Hbo.br" group-title="FILMES & SERIES",HBO
+http://195.181.163.144:14606/
+#EXTINF:0 tvg-id="Hbo2.br" group-title="FILMES & SERIES",HBO 2
+http://15.235.10.31:14381
+#EXTINF:0 tvg-id="Hboplus.br" group-title="FILMES & SERIES",HBO Plus
+http://51.222.44.30:14081/
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES & SERIES",Megapix
+http://51.83.238.223:16823/
+#EXTINF:0 tvg-id="Megapix.br" group-title="FILMES & SERIES",MEGAPIX  HD
+http://dmnet.distv.net/dianna/123456/144
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES & SERIES",Telecine Action
+http://51.83.238.223:16703/
+#EXTINF:0 tvg-id="Tcaction.br" group-title="FILMES & SERIES",TELECINE ACTION HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/150.ts
+#EXTINF:0 tvg-id="Tcfun.br" group-title="FILMES & SERIES",TELECINE FUN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16756
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES & SERIES",Telecine Pipoca
+http://51.83.238.223:16763/
+#EXTINF:0 tvg-id="Tcpipoca.br" group-title="FILMES & SERIES",TELECINE PIPOCA
+http://warez.la:80/9462431/3792669/738.m3u8
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FILMES & SERIES",WARNER HD
+http://45.58.126.146:14351/
+
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO BRASIL
+http://168.205.87.198:8555/live/JOSEE/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO BRASIL
+http://168.205.87.198:8555/live/antony/1234/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO BRASIL
+http://168.205.87.198:8555/live/leila/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO BRASIL
+http://168.205.87.198:8555/live/michele/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO BRASIL
+http://168.205.87.198:8555/live/1221/123456/7.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",Agro Brasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/1221/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/1111/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/leila/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/JOSEE/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/michele/123456/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGRO CANAL
+http://168.205.87.198:8555/live/antony/1234/10.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGROBRASILTV
+http://boxtv.uniredes.com.br:80/1234/1234/97
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGROMAIS
+http://168.205.87.198:8555/live/michele/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGROMAIS
+http://168.205.87.198:8555/live/JOSEE/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGROMAIS
+http://168.205.87.198:8555/live/antony/1234/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",AGROMAIS
+http://168.205.87.198:8555/live/1221/123456/175.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/michele/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/leila/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/1111/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/JOSEE/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/1221/123456/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandeirantes.br" group-title="CANAIS ABERTO",BAND
+http://168.205.87.198:8555/live/antony/1234/19.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",BAND RJ
+http://boxtv.uniredes.com.br:80/1234/1234/68
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTO",CANAL DO BOI
+http://168.205.87.198:8555/live/michele/123456/167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTO",CANAL DO BOI
+http://168.205.87.198:8555/live/antony/1234/167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTO",CANAL DO BOI
+http://168.205.87.198:8555/live/leila/123456/167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CanaldoBoi.br" group-title="CANAIS ABERTO",CANAL DO BOI
+http://168.205.87.198:8555/live/1221/123456/167.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTO",CANAL RURAL
+http://168.205.87.198:8555/live/antony/1234/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTO",CANAL RURAL
+http://168.205.87.198:8555/live/1221/123456/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTO",CANAL RURAL
+http://168.205.87.198:8555/live/leila/123456/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTO",CANAL RURAL
+http://168.205.87.198:8555/live/michele/123456/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Canalrural.br" group-title="CANAIS ABERTO",CANAL RURAL
+http://168.205.87.198:8555/live/JOSEE/123456/166.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",CANAL SAÚDE
+http://168.205.87.198:8555/live/michele/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",CANAL SAÚDE
+http://168.205.87.198:8555/live/1221/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",CANAL SAÚDE
+http://168.205.87.198:8555/live/leila/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",CANAL SAÚDE
+http://168.205.87.198:8555/live/antony/1234/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",CANAL SAÚDE
+http://168.205.87.198:8555/live/JOSEE/123456/165.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/antony/1234/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://boxtv.uniredes.com.br:80/1234/1234/111
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/1221/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/leila/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/JOSEE/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/1111/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CancaoNova.br" group-title="CANAIS ABERTO",CANÇÃO NOVA
+http://168.205.87.198:8555/live/michele/123456/25.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",PAI ETERNO
+http://boxtv.uniredes.com.br:80/1234/1234/91
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",PAI ETERNO FHD
+http://warez.la:80/9462431/3792669/771.m3u8
+#EXTINF:0 tvg-id="Polishop.br" group-title="CANAIS ABERTO",POLISHOP
+http://168.205.87.198:8555/live/1097/123456/153.ts
+#EXTINF:0 tvg-id="Polishop.br" group-title="CANAIS ABERTO",POLISHOP
+http://boxtv.uniredes.com.br:80/1234/1234/107
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",RECORD INTERIOR RJ
+http://boxtv.uniredes.com.br:80/1234/1234/24
+#EXTINF:0 tvg-id="Rederecord.br" group-title="CANAIS ABERTO",RECORD RJ
+http://boxtv.uniredes.com.br:80/1234/1234/56
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:0 tvg-id="Redetv.br" group-title="CANAIS ABERTO",REDE TV
+http://168.205.87.198:8555/live/antony/1234/102.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",Rede UTV
+https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/JOSEE/123456/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/1111/123456/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/leila/123456/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/michele/123456/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/1221/123456/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://168.205.87.198:8555/live/antony/1234/103.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Redevida.br" group-title="CANAIS ABERTO",REDE VIDA
+http://boxtv.uniredes.com.br:80/1234/1234/109
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",REDE VIDA HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS ABERTO",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w654628617_b216000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Sbt.br" group-title="CANAIS ABERTO",SBT
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",SBT INTERIOR RJ
+http://boxtv.uniredes.com.br:80/1234/1234/22
+#EXTINF:0 tvg-id="Terraviva.br" group-title="CANAIS ABERTO",TERRA VIVA
+http://168.205.87.198:8555/live/antony/1234/171.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Terraviva.br" group-title="CANAIS ABERTO",TERRA VIVA
+http://168.205.87.198:8555/live/JOSEE/123456/171.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS ABERTO",TNT
+http://168.205.87.198:8555/live/michele/123456/116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS ABERTO",TNT
+http://168.205.87.198:8555/live/antony/1234/116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tnt.br" group-title="CANAIS ABERTO",TNT
+http://168.205.87.198:8555/live/leila/123456/116.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV APARECIDA
+http://168.205.87.198:8555/live/leila/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV APARECIDA
+http://168.205.87.198:8555/live/michele/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV APARECIDA
+http://168.205.87.198:8555/live/antony/1234/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV APARECIDA
+http://168.205.87.198:8555/live/1221/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="CANAIS ABERTO",TV APARECIDA
+http://168.205.87.198:8555/live/JOSEE/123456/131.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="CANAIS ABERTO",TV CULTURA
+http://boxtv.uniredes.com.br:80/1234/1234/79
+#EXTINF:0 tvg-id="ext" group-title="CANAIS ABERTO",TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="AGRONEGOCIO",AgroBrasil TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:0 tvg-id="Canalrural.br" group-title="AGRONEGOCIO",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0 tvg-id="Terraviva.br" group-title="AGRONEGOCIO",Terra Viva
+https://evpp.mm.uol.com.br/band_live/terraviva/playlist.m3u8
+
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://168.205.87.198:8555/live/antony/1234/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://168.205.87.198:8555/live/michele/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET
+http://168.205.87.198:8555/live/leila/123456/18.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://contentzord.gelderland.ga:2095/live/animalplanet/chunks.m3u8?token=87811ad2784ew2d2
+#EXTINF:0 tvg-id="Animalplanet.br" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
+http://45.58.126.146:14249/
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/leila/123456/33.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/antony/1234/33.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/michele/123456/33.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL  SD
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4461
+#EXTINF:0 tvg-id="Discovery.br" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL HD
+http://45.58.126.146:14252/
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",DISCOVERY H&H HD
+http://45.58.126.146:14255/
+#EXTINF:0 tvg-id="Homehealth.br" group-title="DOCUMENTARIOS",DISCOVERY HOME & HEALTH
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4465
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/michele/123456/35.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/leila/123456/35.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/antony/1234/35.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="DOCUMENTARIOS",DISCOVERY ID
+http://168.205.87.198:8555/live/leila/123456/36.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="DOCUMENTARIOS",DISCOVERY ID
+http://45.58.126.146:14258/
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="DOCUMENTARIOS",DISCOVERY ID
+http://168.205.87.198:8555/live/michele/123456/36.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Investigacaodiscoveryid.br" group-title="DOCUMENTARIOS",DISCOVERY ID
+http://168.205.87.198:8555/live/antony/1234/36.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="DOCUMENTARIOS",DISCOVERY THEATER
+http://45.58.126.146:14264
+#EXTINF:0 tvg-id="Discoverytheaterhd.br" group-title="DOCUMENTARIOS",DISCOVERY THEATER FHD
+http://45.58.126.146:14264/
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4120
+#EXTINF:0 tvg-id="Discturbohd.br" group-title="DOCUMENTARIOS",DISCOVERY TURBO HD
+http://189.85.164.198:2086/live/DISCTUR/720p.m3u8
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="DOCUMENTARIOS",NatGeo
+http://84.17.44.179:14635/
+#EXTINF:0 tvg-id="Nationalgeographic.br" group-title="DOCUMENTARIOS",NATIONAL GEOGRAPHIC
+http://lxls.mx:80/imnunlvd/7h3sgpj8/4493
+#EXTINF:0 tvg-id="ext" group-title="DOCUMENTARIOS",Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIA",BAND NEWS
+http://168.205.87.198:8555/live/JOSEE/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIA",BAND NEWS
+http://168.205.87.198:8555/live/michele/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIA",BAND NEWS
+http://168.205.87.198:8555/live/1221/123456/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIA",BAND NEWS
+http://168.205.87.198:8555/live/antony/1234/174.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Bandnews.br" group-title="NOTICIA",BAND NEWS
+http://boxtv.uniredes.com.br:80/1234/1234/53
+#EXTINF:0 tvg-id="Bloomberg.br" group-title="NOTICIA",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+#EXTINF:0 tvg-id="Bloomberg.br" group-title="NOTICIA",Bloomberg
+https://bloomberg-bloombergtv-3-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-id="CNN.nws" group-title="NOTICIA",CNN
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/michele/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/JOSEE/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/antony/1234/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/leila/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/1111/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="CNNBrasil.br" group-title="NOTICIA",CNN BRASIL
+http://168.205.87.198:8555/live/1221/123456/28.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/1111/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/antony/1234/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/1221/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/leila/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/michele/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+http://168.205.87.198:8555/live/JOSEE/123456/150.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Cnt.br" group-title="NOTICIA",CNT
+https://dd8umsy8yf96u.cloudfront.net/live/cnt-curitiba.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Globonewshd.br" group-title="NOTICIA",GLOBO NEWS FHD
+http://warez.la:80/9462431/3792669/972.m3u8
+#EXTINF:0 tvg-id="Gnthd.br" group-title="NOTICIA",GNT HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/111.ts
+#EXTINF:0 tvg-id="ext" group-title="NOTICIA",JOVEM PAN
+http://168.205.87.198:8555/live/michele/123456/161.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="JovemPanNews.br" group-title="NOTICIA",JOVEM PAN NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 tvg-id="JovemPanNews.br" group-title="NOTICIA",JOVEM PAN NEWS
+http://boxtv.uniredes.com.br:80/1234/1234/52
+#EXTINF:0 tvg-id="Recordnews.br" group-title="NOTICIA",Record News
+http://cdn.connectbr.com.br/Record-News-HD/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="NOTICIA",Record News ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",BBB 23 ACOMPANHE A CASA 1 HD
+http://45.166.68.242:8080/live/anc.julianamesquita/102030/65.ts
+#EXTINF:0 tvg-id="ext" group-title="ENTRETENIMENTO",BBB 23 CHUVEIRO HD
+http://dmnet.distv.net/dianna/123456/73
+
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/antony/1234/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/1111/123456/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/JOSEE/123456/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/michele/123456/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/1221/123456/159.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="ext" group-title="CHAVES",CHESPIRITO
+http://168.205.87.198:8555/live/leila/123456/159.ts?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-id="Combate.br" group-title="ESPORTES",Combate
+http://51.83.238.223:16417/
+#EXTINF:0 tvg-id="Premiereclubes.br" group-title="ESPORTES",PREMIERE 1 HD
+http://dmnet.distv.net/dianna/123456/44
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ESPORTES",Real Madrid TV
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+
+#EXTINF:0 tvg-id="Globosp.br" group-title="GLOBO",GLOBO FHD
+http://168.205.87.198:8555/live/1431/123456/70.m3u8
+#EXTINF:0 tvg-id="Globominas.br" group-title="GLOBO",GLOBO MINAS
+http://168.205.87.198:8555/live/michele/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Globominas.br" group-title="GLOBO",GLOBO MINAS
+http://168.205.87.198:8555/live/1221/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Globominas.br" group-title="GLOBO",GLOBO MINAS
+http://168.205.87.198:8555/live/JOSEE/123456/70.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Globorj.br" group-title="GLOBO",GLOBO RJ
+http://boxtv.uniredes.com.br:80/1234/1234/10
+
+#EXTINF:0 tvg-id="Polishop.br" group-title="SHOPTIME",POLISHOP
+http://168.205.87.198:8555/live/1111/123456/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Polishop.br" group-title="SHOPTIME",POLISHOP
+http://168.205.87.198:8555/live/1221/123456/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Polishop.br" group-title="SHOPTIME",POLISHOP
+http://168.205.87.198:8555/live/antony/1234/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Polishop.br" group-title="SHOPTIME",POLISHOP
+http://168.205.87.198:8555/live/leila/123456/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Polishop.br" group-title="SHOPTIME",POLISHOP
+http://168.205.87.198:8555/live/michele/123456/153.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Shoptime.br" group-title="SHOPTIME",Shoptime
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/shoptime/live
+#EXTINF:0 tvg-id="Shoptime.br" group-title="SHOPTIME",SHOPTIME
+http://168.205.87.198:8555/live/antony/1234/164.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Shoptime.br" group-title="SHOPTIME",SHOPTIME
+http://168.205.87.198:8555/live/leila/123456/164.ts?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="Shoptime.br" group-title="SHOPTIME",SHOPTIME
+http://168.205.87.198:8555/live/1221/123456/164.ts?checkedby:iptvcat.com
